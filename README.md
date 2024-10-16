@@ -1,6 +1,7 @@
-# **Solution Accelerator - Implementing CIS Microsoft 365 Foundations Benchmark (L1 & L2)**
+# Solution Accelerator - Implementing CIS Microsoft 365 Foundations Benchmark (L1 & L2)
 
-**Overview of the Service:**
+## **Overview of the Service:**
+
 The **Implementing CIS Microsoft 365 Foundations Benchmark** service ensures that your Microsoft 365 environment is configured according to the **CIS (Center for Internet Security)** guidelines, both at **Level 1 (L1)** and **Level 2 (L2)**. This service aims to strengthen the security of Microsoft 365 by implementing essential and advanced security controls to safeguard your data, manage access, and ensure regulatory compliance.
 
 ---
