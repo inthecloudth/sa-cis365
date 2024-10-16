@@ -63,12 +63,17 @@ Post-Implementation Review
 
 ตารางนี้สรุปขั้นตอนและรายละเอียดของแต่ละวันสำหรับการใช้งาน **Solution Accelerator - Implementing CIS Microsoft 365 Foundations Benchmark (L1 & L2)** ครับ
 ตัวเลือกบริการ
-Foundation	Standard
-Duration	6 day	7 days
-CIS Benchmark Implementation – Phase 1	Included	Included
-CIS Benchmark Implementation – Phase 2	Not included	Included
-Delivery option	Remote	Remote
-Warranty	180 days	180 days
+นี่คือตารางเปรียบเทียบบริการ **Solution Accelerator - Implementing CIS Microsoft 365 Foundations Benchmark (L1 & L2)** ระหว่าง **Foundation** และ **Standard**:
+
+| **ตัวเลือกบริการ**          | **Foundation**               | **Standard**               |
+|------------------------------|------------------------------|----------------------------|
+| **Duration**                  | 6 days                       | 7 days                     |
+| **CIS Benchmark Implementation – Phase 1** | Included                     | Included                   |
+| **CIS Benchmark Implementation – Phase 2** | Not included                 | Included                   |
+| **Delivery Option**           | Remote                       | Remote                     |
+| **Warranty**                  | 180 days                     | 180 days                   |
+
+ตารางนี้ช่วยให้ลูกค้าเห็นความแตกต่างหลักระหว่างแพ็กเกจบริการ Foundation และ Standard ในด้านระยะเวลาและขั้นตอนการปรับใช้ CIS Benchmark ครับ
 รายการนำส่ง
 รายการสรุป ก่อน และหลังจากการทำ CIS Microsoft 365 Foundations Benchmark
 รับประกัน 180 วัน
